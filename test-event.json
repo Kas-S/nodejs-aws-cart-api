@@ -1,0 +1,31 @@
+{
+  "resource": "/",
+  "path": "/",
+  "httpMethod": "GET",
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Host": "ulb8b2nnbb.execute-api.us-east-1.amazonaws.com",
+    "User-Agent": "Mozilla/5.0"
+  },
+  "queryStringParameters": null,
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "accountId": "169865926111",
+    "apiId": "ulb8b2nnbb",
+    "protocol": "HTTP/1.1",
+    "httpMethod": "GET",
+    "path": "/prod/",
+    "stage": "prod",
+    "requestId": "test-request-id",
+    "requestTime": "23/Nov/2025:20:54:15 +0000",
+    "requestTimeEpoch": 1700770455000,
+    "identity": {
+      "sourceIp": "1.2.3.4"
+    }
+  },
+  "body": null,
+  "isBase64Encoded": false
+}
